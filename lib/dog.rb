@@ -14,6 +14,6 @@ class Dog
     @breed
   end
 
-Dog.breed("Mutt")
+Dog.breed="Mutt"
 
 end
