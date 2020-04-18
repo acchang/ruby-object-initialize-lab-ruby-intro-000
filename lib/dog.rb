@@ -13,4 +13,7 @@ class Dog
     @name
     @breed
   end
+
+Dog.breed("Mutt")
+
 end
